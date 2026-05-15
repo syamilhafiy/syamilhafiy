@@ -1,6 +1,4 @@
-# profile-README
-
-# Syamil Hafiy
+# Hi, my name is Syamil Hafiy
 
 ## About Me
 Quality Assurance professional with 5 years of high-paced, high-volume project
