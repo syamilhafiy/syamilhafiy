@@ -8,7 +8,7 @@ and now I am upskilling into Software QA. [View my CV](https://drive.google.com/
 💼 Open to Software QA and Tester roles in Klang Valley/KL
 
 ## Currently Upskilling In:
-- Selenium Java (test automation)
+- Selenium Java (test automation) - [Repo](https://github.com/syamilhafiy/selenium-java-practice)
 - Manual testing & test case writing
 - Defect management with Jira
 - Page Object Model (POM)
