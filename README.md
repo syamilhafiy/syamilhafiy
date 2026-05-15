@@ -1,8 +1,7 @@
 # Hi, my name is Syamil Hafiy
 
 ## About Me
-Quality Assurance professional with 5 years of high-paced, high-volume project experience in telecommunications infrastructure,  
-and now I am upskilling into Software QA. [View my CV](https://drive.google.com/file/d/1w9O_As4D7aq3M_DmZdcYC-Ne6FcvhxqI/view?usp=sharing)
+Quality Assurance professional with 5 years of high-paced, high-volume project experience in telecommunications infrastructure, and now I am upskilling into Software QA. [View my CV](https://drive.google.com/file/d/1w9O_As4D7aq3M_DmZdcYC-Ne6FcvhxqI/view?usp=sharing)
 
 📍  I am based in Selangor, Malaysia  
 💼 Open to Software QA and Tester roles in Klang Valley/KL
