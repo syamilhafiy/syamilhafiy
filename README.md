@@ -24,5 +24,5 @@ and now I am upskilling into Software QA. [View my CV](https://drive.google.com/
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## About This Page
-This is where I document my learning and practice as software QA. It has 
-been a meaningful journey and I hope to start contributing in a real world testing soon.
+This is where I document my learning and practice as software QA in manual and automation.  
+It has been a meaningful journey and I hope to start contributing in a real world testing soon.
